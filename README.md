@@ -4,7 +4,7 @@
 
 
 ### Main skills:
-![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)&nbsp;
+![C#](https://img.shields.io/badge/C%23-brightgreen?logo=C%23&logoColor=white)&nbsp;
 ![Python](https://img.shields.io/badge/Python-yellow?logo=python&logoColor=white)&nbsp;
                     
 ### Tools:
