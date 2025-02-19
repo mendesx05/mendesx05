@@ -5,7 +5,7 @@
 
 ### Main skills:
 ![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)&nbsp;
-![Python](https://hermes.dio.me/articles/cover/c42885f6-e951-42d5-9918-6356822dbd20.png)&nbsp;
+<i class="fa-brands fa-dev"></i>
                     
 ### Tools:
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)&nbsp;
