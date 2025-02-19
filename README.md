@@ -1,6 +1,6 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=343642&height=120&section=header"/>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=869ec1&size=35&center=true&vCenter=true&width=1000&lines=Hello,+My+name+is+Pedro+Mendes;I'm+19+years+old;I+from+Brazil,+SP;Bachelor+in+Information+Systems;+Welcome!+:%29)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=869ec1&size=35&center=true&vCenter=true&width=1000&lines=Hello,+My+name+is+Pedro+Mendes;I'm+19+years+old;I+from+Brazil,+SP;Studying+Systems+analysis+and+development;+Welcome!+:%29)](https://git.io/typing-svg)
 
 
 ### Main skills:
